@@ -65,7 +65,7 @@ CHANNEL_ID = YOUR_CHANNEL_ID  # Channel where accounts are posted
 ### 1. Clone the Repository
 
 ```bash
-git clone https://soulcrack-spoofs-admin@bitbucket.org/soulcrack-spoofs/github-account-creator-bot.git
+git clone https://github.com/vikrant-project/github-account-creator-bot
 cd github-account-creator-bot
 ```
 
