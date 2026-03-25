@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+selenium
+requests
+TempMail

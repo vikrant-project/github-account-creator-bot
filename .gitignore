@@ -1,0 +1,80 @@
+# ========================
+# CRITICAL - Never Commit
+# (contains sensitive data)
+# ========================
+accounts.json
+approve.txt
+card.txt
+*.session
+token.pickle
+
+# ========================
+# Logs & Runtime Files
+# ========================
+*.log
+bot.log
+nohup.out
+
+# ========================
+# Chrome / Selenium
+# ========================
+chromedriver
+chromedriver.exe
+.chrome/
+chrome_profile/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ========================
+# Environment Variables
+# ========================
+.env
+.env.local
+*.env
+
+# ========================
+# IDE & Editor Files
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# Testing
+# ========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+._*
+Desktop.ini
+ehthumbs.db
